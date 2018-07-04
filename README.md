@@ -1,36 +1,36 @@
 # ape2018
 
-The Group!
+The Group! Github IDs..
 
 ****************************************************************************
 
-ivanmoore
+Ivan        | https://github.com/ivanmoore
 
-Harry - harrypod
+Harry       | https://github.com/harrypod
 
-Melanie
+Melanie     | https://github.com/melaniealey
 
-Frank - 
+Frank       | https://github.com/jodler303
 
-Dan Florin - 
+Dan Florin  | https://github.com/dan393
 
-Paul - 
+Paul        | https://github.com/paulchong
 
-Sreevidya - 
+Sreevidya   | https://github.com/sreeket
 
-Tumelo - 
+Tumelo      | https://github.com/tumelomakgaka
 
-Nicholas - 
+Nicholas    | https://github.com/jetski5822
 
-Jhonatan
+Jhonatan    | https://github.com/jpascas
 
-Sergej
+Sergej      | https://github.com/nwonknu3
 
 Zarul - 
 
-Ntazana - 
+Ntazana -   | https://github.com/ntazana
 
-Natarajan - reachvishwa
+Natarajan   | https://github.com/reachvishwa
 
 
 ****************************************************************************
